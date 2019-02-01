@@ -2,6 +2,7 @@
 Test task for Profitero
 
 to run script:
+
 $ ruby index.rb "https://www.petsonic.com/snacks-huesos-para-perros/" "Snacks y Huesos.csv";
 
 Console log:
